@@ -1,4 +1,4 @@
-# EzyPay
+# EzyPay: Peer-to-Peer Payment & Wallet Management System
 
 ## 🌟 Overview
 EzyPay is a cutting-edge peer-to-peer (P2P) payment and wallet management system, designed for effortless fund transfers and wallet functionalities. With a user-friendly interface and robust backend, EzyPay aims to simplify digital transactions for everyone.
