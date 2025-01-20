@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import { Loader2 } from "lucide-react";
 import hdfc from "../assests/HDFC-Bank-Logo.png";
-import { createOnRamptxn } from "../app/lib/actions/createOnRampTxn";
+import { createOnRamptxn } from "../app/lib/actions/createOnRamptxn";
 
 export default function HDFCTransactionPage() {
   const [isLoading, setIsLoading] = useState(true);

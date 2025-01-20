@@ -4,7 +4,7 @@ import { useState, useRef } from 'react';
 import { Card } from '@repo/ui/card';
 import { Center } from '@repo/ui/center';
 import { Textinput } from '@repo/ui/textinput';
-import { p2pTransfer } from '../app/lib/actions/P2Ptransfer';
+import { p2pTransfer } from '../app/lib/actions/p2pTransfer';
 import { NumberList } from './NumberList';
 
 export function SendCard() {

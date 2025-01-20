@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import { Loader2 } from "lucide-react";
 import axis from "../assests/axisLogo.png";
-import { createOnRamptxn } from "../app/lib/actions/createOnRampTxn";
+import { createOnRamptxn } from "../app/lib/actions/createOnRamptxn";
 
 export default function AxisTransactionPage() {
   const [isLoading, setIsLoading] = useState(true);
