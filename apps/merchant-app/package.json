@@ -12,6 +12,8 @@
     "@repo/db": "*",
     "@repo/store": "*",
     "@repo/ui": "*",
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.1",
     "next": "^14.1.1",
     "next-auth": "^4.24.7",
     "react": "^18.2.0",

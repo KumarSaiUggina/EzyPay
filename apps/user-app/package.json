@@ -13,6 +13,8 @@
     "@repo/db": "*",
     "@repo/store": "*",
     "@repo/ui": "*",
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.1",
     "@types/bcrypt": "^5.0.2",
     "@vercel/analytics": "^1.4.1",
     "@vercel/speed-insights": "^1.1.0",
