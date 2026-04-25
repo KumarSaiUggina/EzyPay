@@ -16,7 +16,7 @@
         "GITHUB_CLIENT_ID",
         "GITHUB_CLIENT_SECRET"
       ],
-      "outputs": [".next/**", "!.next/cache/**"]
+      "outputs": [".next/**", "!.next/cache/**", "dist/**"]
     },
     "lint": {
       "dependsOn": ["^lint"]
