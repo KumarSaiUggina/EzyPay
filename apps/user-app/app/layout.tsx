@@ -9,8 +9,13 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Wallet',
-  description: 'Simple wallet app',
+  title: 'EzyPay — Instant Digital Wallet & Payments',
+  description: 'Send money, manage your wallet, and make instant P2P transfers with EzyPay — your modern digital payment platform.',
+  icons: {
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
