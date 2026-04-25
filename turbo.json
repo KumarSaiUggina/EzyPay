@@ -6,6 +6,7 @@
       "dependsOn": ["^build"],
       "env": [
         "DATABASE_URL",
+        "DIRECT_URL",
         "JWT_SECRET",
         "NEXTAUTH_URL",
         "NEXTAUTH_SECRET",
