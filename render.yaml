@@ -2,6 +2,7 @@ services:
   - type: web
     name: ezy-pay-bank-webhook
     env: node
+    plan: free
     buildCommand: npm install && cd apps/bank-webhook && npm run build
     startCommand: cd apps/bank-webhook && npm run start
     envVars:
